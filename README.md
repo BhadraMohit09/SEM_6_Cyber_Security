@@ -1,6 +1,6 @@
 > ### Cyber Security Lab Manuals
 
-Welcome to the **Cyber Security Lab Manuals** repository! This repository contains PDF files for various tasks and exercises performed in the Cyber Security course. Each PDF corresponds to a different lab task that covers various topics in Cyber Security.
+`Welcome to the **Cyber Security Lab Manuals** repository! This repository contains PDF files for various tasks and exercises performed in the Cyber Security course. Each PDF corresponds to a different lab task that covers various topics in Cyber Security.`
 
 ## Table of Contents
 
