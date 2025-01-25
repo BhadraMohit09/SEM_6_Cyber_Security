@@ -29,6 +29,8 @@ This repository is intended for educational purposes and includes detailed guide
 If you would like to contribute additional resources or updates to the lab manuals, feel free to fork this repository and create a pull request. Any contributions are welcome!
 
 ## License
+
 > Password: Lab#@MAB
+
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
