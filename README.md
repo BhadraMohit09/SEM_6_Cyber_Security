@@ -4,14 +4,14 @@ Welcome to the **Cyber Security Lab Manuals** repository! This repository contai
 
 ## Table of Contents
 
-1. [Lab Task 1](./Lab-Data/lab_task_1.pdf)
-2. [Lab Task 2](./Lab-Data/lab_task_2.pdf)
-3. [Lab Task 3](./Lab-Data/lab_task_3.pdf)
-4. [Lab Task 4](./Lab-Data/lab_task_4.pdf)
-5. [Lab Task 5](./Lab-Data/lab_task_5.pdf)
-6. [Lab Task 6](./Lab-Data/lab_task_6.pdf)
-7. [Lab Task 7](./Lab-Data/lab_task_7.pdf)
-8. [Lab Task 8](./Lab-Data/lab_task_8.pdf)
+1. [Lab Task 1](./Lab_Data/CS_Lab_1_MAB.pdf)
+2. [Lab Task 2](./Lab_Data/CS_Lab_2_MAB.pdf)
+3. [Lab Task 3](./Lab_Data/CS_Lab_3_MAB.pdf)
+4. [Lab Task 4](./Lab_Data/CS_Lab_4_MAB.pdf)
+5. [Lab Task 5](./Lab_Data/CS_Lab_5_MAB.pdf)
+6. [Lab Task 6](./Lab_Data/CS_Lab_6_MAB.pdf)
+7. [Lab Task 7](./Lab_Data/CS_Lab_7_MAB.pdf)
+8. [Lab Task 8](./Lab_Data/CS_Lab_8_MAB.pdf)
 
 ## About
 
