@@ -4,7 +4,7 @@
 
 `Welcome to the **Cyber Security Lab Manuals** repository! This repository contains PDF files for various tasks and exercises performed in the Cyber Security course. Each PDF corresponds to a different lab task that covers various topics in Cyber Security.`
 
-## Table of Contents
+#### Table of Contents
 
 1. [Lab Task 1](./Lab_Data/CS_Lab_1_MAB.pdf)
 2. [Lab Task 2](./Lab_Data/CS_Lab_2_MAB.pdf)
