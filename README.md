@@ -19,7 +19,7 @@
 
 This repository is intended for educational purposes and includes detailed guides and instructions on performing various Cyber Security tasks. Each PDF document in the repository explains the steps and concepts required for each lab.
 
-## How to Use
+#### How to Use
 
 1. Navigate to the desired lab task from the table of contents above.
 2. Download the corresponding PDF for detailed instructions.
