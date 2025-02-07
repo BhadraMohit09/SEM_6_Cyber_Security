@@ -26,7 +26,7 @@ This repository is intended for educational purposes and includes detailed guide
 3. Follow the instructions and perform the task in your lab environment.
 4. Submit your completed tasks as required.
 
-## Contributing
+#### Contributing
 
 If you would like to contribute additional resources or updates to the lab manuals, feel free to fork this repository and create a pull request. Any contributions are welcome!
 
