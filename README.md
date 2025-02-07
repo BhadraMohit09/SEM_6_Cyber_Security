@@ -1,6 +1,6 @@
 ![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=9823f5&height=150&section=header)
 
-> ### Cyber Security Lab Manual🤖🌀
+> #### Cyber Security Lab Manual🤖🌀
 
 `Welcome to the **Cyber Security Lab Manuals** repository! This repository contains PDF files for various tasks and exercises performed in the Cyber Security course. Each PDF corresponds to a different lab task that covers various topics in Cyber Security.`
 
