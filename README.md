@@ -1,4 +1,4 @@
-![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=983ff7&height=150&section=header)
+![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=3f3ff7&height=150&section=header)
 
 
 ![Downtime GIF](https://media.giphy.com/media/avOd4dltPp9fIDm5P3/giphy.gif)
